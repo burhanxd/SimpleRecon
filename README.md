@@ -61,3 +61,5 @@ Simple Recon is just a simple bash script to automate my recon process. I made i
 - [Instagram](https://instagram.com/burhan__xd)
 
 - [Twitter](https://twitter.com/burhan__xd)
+
+- [Discord Server](https://discord.gg/GnS9vMuDuH)
