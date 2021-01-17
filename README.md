@@ -10,6 +10,8 @@ Simple Recon is just a simple bash script to automate my recon process. I made i
 
 ``` git clone https://github.com/burhanxd/SimpleRecon```
 
+``` cd SimpleRecon ``` 
+
 ``` chmod +x recon.sh```
 
 - Install GOLANG first if you didn't installed it
