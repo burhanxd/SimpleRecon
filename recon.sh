@@ -10,7 +10,7 @@ echo -e "\e[1;32m Features: Subdomain enumeration, Gau, httpx, subtakeover, wayb
 echo -e "\e[1;32m         By: Burhan Chhotaudepur | Twitter/Insta: burhan__xd
                          Github: burhanxd       \e[0m"
 echo " "
-echo -e "\e[1;32m Run install.sh before running this script else it might give you erros\e[0m"
+echo -e "\e[1;32m Run install.sh before running this script else it might give you errors\e[0m"
 echo -e "\e[1;32m <------------------------------------------------------------------------>\e[0m"
 
 }
