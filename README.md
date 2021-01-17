@@ -45,3 +45,7 @@ Simple Recon is just a simple bash script to automate my recon process. I made i
 - Gau: lc
 
 - I just gathered all tools and placed it in a bash script to automate all process.
+
+### More:
+
+- Feel free to contribute in this script to make it more effective and make recon easy.
