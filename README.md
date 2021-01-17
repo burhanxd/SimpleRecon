@@ -17,6 +17,7 @@ Simple Recon is just a simple bash script to automate my recon process. I made i
 - Setup the tools before running the script
 
 ``` chmod +x install.sh ```
+
 ``` ./install.sh ```
 
 ## Using the script
