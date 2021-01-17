@@ -8,7 +8,7 @@ Simple Recon is just a simple bash script to automate my recon process. I made i
 
 - Install:
 
-``` git clone https://github.com/Simplerecon```
+``` git clone https://github.com/burhanxd/SimpleRecon```
 
 ``` chmod +x recon.sh```
 
