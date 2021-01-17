@@ -49,3 +49,9 @@ Simple Recon is just a simple bash script to automate my recon process. I made i
 ### More:
 
 - Feel free to contribute in this script to make it more effective and make recon easy.
+
+### Connect:
+
+- [Instagram](https://instagram.com/burhan__xd)
+
+- [Twitter](https://twitter.com/burhan__xd)
