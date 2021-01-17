@@ -42,4 +42,6 @@ Simple Recon is just a simple bash script to automate my recon process. I made i
 
 - Subfinder: projectdiscovery
 
+- Gau: lc
+
 - I just gathered all tools and placed it in a bash script to automate all process.
