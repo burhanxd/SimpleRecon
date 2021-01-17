@@ -7,6 +7,7 @@ Simple Recon is just a simple bash script to automate my recon process. I made i
 - Install:
 
 ``` git clone https://github.com/Simplerecon```
+
 ``` chmod +x recon.sh```
 
 - Setup the tools before running the script
@@ -16,5 +17,6 @@ Simple Recon is just a simple bash script to automate my recon process. I made i
 ## Using the tool
 
 ``` ./recon.sh ```
+
 ``` [+]Domain (ex: google.com): hackerone.com ```
 
