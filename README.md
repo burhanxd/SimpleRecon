@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/burhanxd/SimpleRecon/main/Screenshot%20from%202021-01-17%2013-30-11.png">
 # Simple recon
 
 Simple Recon is just a simple bash script to automate my recon process. I made it for my personal use but thought to share it with the community. Yeah, this script will be good for beginners who are just starting out in bug bounty or pentesting.
