@@ -38,6 +38,12 @@ Simple Recon is just a simple bash script to automate my recon process. I made i
 
 - Check for live host with HttpX
 
+### Update
+
+- Added LinkFinder
+
+- Now, the script will find js files/urls with gau -> Find files with 200(live/exist) response and clean it -> separate params, file paths with collector.py and save it in output folder
+
 ### Credits to the original tools owner:
 
 - SubOver: Ice3man
@@ -49,6 +55,12 @@ Simple Recon is just a simple bash script to automate my recon process. I made i
 - Subfinder: projectdiscovery
 
 - Gau: lc
+
+- LinkFinder: GerbenJavado
+
+- collector.py: m4ll0k
+
+- antiburl: tomnomnom
 
 - I just gathered all tools and placed it in a bash script to automate all process.
 
